@@ -7,7 +7,7 @@
 
 <br/>
 
-**CS Graduate · ITI Alumna · Power BI Track @ ITI**
+**AI Graduate · Data Analyst · Power BI Track @ ITI**
 
 <p>
   <a href="mailto:horiaahmed157@gmail.com"><img src="https://img.shields.io/badge/Email-horiaahmed157%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
