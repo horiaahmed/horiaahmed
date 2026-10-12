@@ -12,7 +12,6 @@
 
 <p>
   <a href="mailto:horiaahmed157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://horiaahmed.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-2563EB?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/horiaahmed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/horiaahmed"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
