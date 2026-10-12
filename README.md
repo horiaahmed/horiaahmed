@@ -1,4 +1,4 @@
-# Horia Ahmed | Data Analyst • BI Developer • Data Automation
+# Horia Ahmed | Care about Data & AI • ITI BI Developer • Data Automation
 
 <div align="center">
 
@@ -30,12 +30,11 @@ I turn raw data into actionable insights through data cleaning, exploratory data
 My experience spans end-to-end analytics projects, from collecting and transforming data to developing predictive models and communicating findings through business-focused visualizations.
 
 **My focus areas:**
-- 📊 Business Intelligence & Interactive Reporting
-- 🐍 Python-Based Data Analysis & Automation
-- 🗄️ SQL, Data Modeling & Data Warehousing
-- 🤖 Machine Learning & Predictive Analytics
-- ⚙️ Workflow Automation with n8n
-- 📈 Data Quality, KPI Development & Business Insights
+-  Business Intelligence & Interactive Reporting
+-  Python-Based Data Analysis & Automation
+-  SQL, Data Modeling & Data Warehousing
+-  Workflow Automation with n8n
+- Data Quality, KPI Development & Business Insights
 
 🎓 **Education:** B.Sc. in Computer Science & Artificial Intelligence — Benha University  
 🏅 **Certification:** Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)  
@@ -87,22 +86,8 @@ My experience spans end-to-end analytics projects, from collecting and transform
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 1. Egyptian Used-Car Market Analysis & Price Prediction
-
-**Tools:** Python, Pandas, Scikit-learn, Web Scraping, Power BI
-
-- Collected and analyzed used-car listings from Egyptian online marketplaces.
-- Built a dataset of approximately **24,857 unique listings**.
-- Performed data cleaning, exploratory analysis, and feature engineering.
-- Developed a Gradient Boosting price-prediction model.
-- Achieved an \(R^2\) score of approximately **0.916** in the reported evaluation.
-- Created Power BI dashboards covering market prices, depreciation, and buying opportunities.
-
-**Business value:** Supports data-driven vehicle pricing and helps buyers compare listings against estimated market values.
-
-### ⚙️ 2. Sales Data Cleaning & Automation Workflow
+##  Featured Projects
+### ⚙️ 1. Sales Data Cleaning & Automation Workflow
 
 **Tools:** n8n, Google Drive, JavaScript, Google Sheets
 
@@ -116,6 +101,21 @@ My experience spans end-to-end analytics projects, from collecting and transform
 
 **Business value:** Demonstrates how repetitive data preparation and reporting tasks can be organized into a repeatable workflow.
 
+### 🚗 2. Egyptian Used-Car Market Analysis & Price Prediction
+
+**Tools:** Python, Pandas, Scikit-learn, Web Scraping, Power BI
+
+- Collected and analyzed used-car listings from Egyptian online marketplaces.
+- Built a dataset of approximately **24,857 unique listings**.
+- Performed data cleaning, exploratory analysis, and feature engineering.
+- Developed a Gradient Boosting price-prediction model.
+- Achieved an \(R^2\) score of approximately **0.916** in the reported evaluation.
+- Created Power BI dashboards covering market prices, depreciation, and buying opportunities.
+
+**Business value:** Supports data-driven vehicle pricing and helps buyers compare listings against estimated market values.
+
+
+
 ### ☀️ 3. SolarIQ Egypt — Solar Energy & Air Quality Analytics
 
 **Tools:** Power BI, SQL, SSIS, SSRS, Tableau, Streamlit, Python
@@ -127,18 +127,7 @@ My experience spans end-to-end analytics projects, from collecting and transform
 
 **Business value:** Helps users explore regional solar-energy opportunities alongside environmental indicators.
 
-### 🍫 4. Chocolate Sales — Machine Learning & Demand Analysis
-
-**Tools:** Python, Pandas, Scikit-learn, Random Forest
-
-- Prepared a large synthetic chocolate-sales dataset for machine learning.
-- Built a structured training, validation, and testing workflow.
-- Developed a Random Forest model for demand prediction.
-- Achieved a reported validation MAE of approximately **1.824** for the selected target.
-
-**Business value:** Demonstrates an end-to-end predictive modeling workflow and the evaluation of demand forecasts.
-
-### 📊 5. Retail Sales Analysis Dashboard
+### 📊 4. Retail Sales Analysis Dashboard
 
 **Tools:** Tableau, Excel
 
@@ -146,7 +135,7 @@ My experience spans end-to-end analytics projects, from collecting and transform
 - Designed interactive visualizations to communicate business patterns.
 - Translated raw sales data into concise, decision-oriented insights.
 
-### 📚 6. Udemy Courses Analysis
+### 📚 5. Udemy Courses Analysis
 
 **Tools:** Power BI, Power Query, DAX
 
@@ -154,7 +143,7 @@ My experience spans end-to-end analytics projects, from collecting and transform
 - Created interactive dashboards and calculated measures.
 - Explored relationships between course characteristics and learner engagement.
 
-### 🎓 7. Students Performance Analysis
+### 🎓 6. Students Performance Analysis
 
 **Tools:** Excel, Statistical Analysis
 
@@ -162,7 +151,7 @@ My experience spans end-to-end analytics projects, from collecting and transform
 - Applied data preparation, summary statistics, and visual analysis.
 - Communicated findings through structured charts and reports.
 
-### 🏢 8. HR Salary Analysis
+### 🏢 7. HR Salary Analysis
 
 **Tools:** Python, Excel, Power BI
 
@@ -210,7 +199,6 @@ My experience spans end-to-end analytics projects, from collecting and transform
 
 I'm open to opportunities in **Data Analytics, Business Intelligence, Power BI Development, and Data Automation**, where I can use analytical thinking and technical skills to solve practical business problems.
 
-- 🌐 **Portfolio:** [horiaahmed.github.io/My_Portfolio](https://horiaahmed.github.io/My_Portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/horiaahmed](https://www.linkedin.com/in/horiaahmed/)
 - 📧 **Email:** [horiaahmed157@gmail.com](mailto:horiaahmed157@gmail.com)
 - 💻 **GitHub:** [github.com/horiaahmed](https://github.com/horiaahmed)
